@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "idConductor": 123,
+    "marca": "tooyota",
+    "modelo": "2",
+    "placa": "HG123",
+    "mantenimiento": false
+  },
+  {
+    "id": 2,
+    "idConductor": 345,
+    "marca": "tooyota",
+    "modelo": "5",
+    "placa": "HG345",
+    "mantenimiento": true
+  },
+  {
+    "id": 5,
+    "idConductor": 789,
+    "marca": "cheevrolet",
+    "modelo": "2",
+    "placa": "HG789",
+    "mantenimiento": false
+  },
+  {
+    "id": 6,
+    "idConductor": 910,
+    "marca": "tooyota",
+    "modelo": "3",
+    "placa": "HG910",
+    "mantenimiento": false
+  }
+]
